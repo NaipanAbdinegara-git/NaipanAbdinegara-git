@@ -1,55 +1,66 @@
-# Hi, I'm Naipan Abdinegara 👋
+<h1 align="center">Hi, I'm Naipan Abdinegara 🚀</h1>
 
-**Beginner Developer • Python User • Future Data Analyst • AI Enthusiast**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NaipanAbdinegara-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/NaipanAbdinegara-git?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NaipanAbdinegara-git?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+<p align="center">
+  <b>Beginner Developer • Future Data Analyst • AI Enthusiast</b><br>
+  <i>"Consistency beats intensity."</i>
 </p>
 
-## About Me
-
-I’m a developer from Indonesia, currently focusing on **data science**, **artificial intelligence**, and **software development**.
-
-I’m building my skills in **Python** and **JavaScript** through small projects, experiments, and consistent practice.  
-I like learning by doing, especially when it involves APIs, data handling, and useful automation.
-
-- 🎯 Goal: Become a professional **Data Analyst** or **AI Engineer**
-- ⚙️ Environment: **VS Code**
-- 📈 Mindset: Growth, discipline, and consistency
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaipanAbdinegara-git&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/NaipanAbdinegara-git?label=Followers&style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/NaipanAbdinegara-git?label=Stars&style=flat-square&color=0e75b6" />
 </p>
 
-## GitHub Analytics
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+## 👨‍💻 About Me
+I’m a developer from Indonesia currently leveling up my skills in **Data Science** and **Artificial Intelligence**. I believe in *learning by doing* and building meaningful projects to solve real-world problems.
+
+- 🎯 **Goal:** Professional Data Analyst / AI Engineer
+- ⚙️ **Environment:** Arch Linux (EndeavourOS) + VS Code
+- 📈 **Mindset:** Growth, discipline, and long-term consistency
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true" />
+---
+
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true&fire=true"/>
 </p>
 
-## What I’m Working On
+---
 
-- Python scripts and small tools
-- API-based projects
-- Weather and data fetching experiments
-- Basic data processing and analysis
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaipanAbdinegara-git&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
-## Current Focus
+---
 
-- Strengthening Python fundamentals
-- Learning how APIs work
-- Improving analytical thinking
-- Building consistent coding habits
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+</p>
 
-## Fun Fact
+---
 
-I enjoy making small projects that help me understand bigger ideas.
+<p align="center">
+  <i>Thanks for stopping by! Let's connect.</i>
+</p>
