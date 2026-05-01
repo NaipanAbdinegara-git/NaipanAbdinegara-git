@@ -54,13 +54,6 @@ I’m a developer from Indonesia currently leveling up my skills in **Data Scien
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
-</p>
-
----
-
 <p align="center">
   <i>Thanks for stopping by! Let's connect.</i>
 </p>
