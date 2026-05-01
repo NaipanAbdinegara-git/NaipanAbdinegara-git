@@ -57,5 +57,5 @@ Coding isn't my whole personality. When I'm offline:
 ---
 
 <p align="center">
-  <i>"Consistency beats intensity."</i>
+  <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
 </p>
