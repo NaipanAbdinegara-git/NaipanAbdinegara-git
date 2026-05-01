@@ -51,7 +51,7 @@ Coding isn't my whole personality. When I'm offline:
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
 ---
