@@ -1,90 +1,55 @@
-# Naipan Abdinegara 🚀
+# Hi, I'm Naipan Abdinegara 👋
 
-**Beginner Developer • Future Data Analyst • AI Enthusiast**
+**Beginner Developer • Python User • Future Data Analyst • AI Enthusiast**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NaipanAbdinegara-git&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/NaipanAbdinegara-git?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/NaipanAbdinegara-git?label=Stars&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=NaipanAbdinegara-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NaipanAbdinegara-git?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NaipanAbdinegara-git?label=Stars&style=flat&color=0e75b6" alt="Stars" />
 </p>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I’m a developer from Indonesia, currently focusing on **data science**, **artificial intelligence**, and **software development**.
 
-I’m a developer from Indonesia who is currently focused on growing in **data science** and **artificial intelligence**.
+I’m building my skills in **Python** and **JavaScript** through small projects, experiments, and consistent practice.  
+I like learning by doing, especially when it involves APIs, data handling, and useful automation.
 
-Right now, I’m sharpening my skills in **Python** and **JavaScript** by building small but meaningful projects.  
-I believe in *learning by doing* and improving step by step through consistency.
+- 🎯 Goal: Become a professional **Data Analyst** or **AI Engineer**
+- ⚙️ Environment: **VS Code**
+- 📈 Mindset: Growth, discipline, and consistency
 
-🎯 **Goal:** Become a professional **Data Analyst** / **AI Engineer**  
-⚙️ **Environment:** VS Code on a mid-level setup  
-📈 **Mindset:** Growth, discipline, and long-term consistency  
-
----
-
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true" />
 </p>
 
----
+## What I’m Working On
 
-## 🔥 What I’m Building
+- Python scripts and small tools
+- API-based projects
+- Weather and data fetching experiments
+- Basic data processing and analysis
 
-- Simple Python tools & scripts  
-- API-based projects (weather, data fetching, etc.)  
-- Data handling & basic analysis  
-- Small experiments to understand real-world concepts  
+## Current Focus
 
----
+- Strengthening Python fundamentals
+- Learning how APIs work
+- Improving analytical thinking
+- Building consistent coding habits
 
-## 📌 Current Focus
+## Fun Fact
 
-- Strengthening Python fundamentals  
-- Understanding APIs & data flow  
-- Improving analytical thinking  
-- Building consistent coding habits  
-
----
-
-## 🏆 Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaipanAbdinegara-git&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> Small progress every day is still progress.  
-> Consistency beats intensity.
-
----
-
-## ☕ Fun Fact
-
-I enjoy building simple projects that help me understand complex systems.
+I enjoy making small projects that help me understand bigger ideas.
