@@ -16,7 +16,7 @@ Hey, I'm Naipan. Just a student from Indonesia who spends way too much time in t
 
 * 📍 **Based in:** Palembang, Indonesia.
 * 💻 **Tech Stack:** Python, JS, and a bit of everything else.
-* 🐧 **Daily Driver:** EndeavourOS (because why not?).
+* 🐧 **Daily Driver:** Windows (because why not?).
 * 🎯 **The Goal:** Leveling up as a Data Analyst.
 
 ---
