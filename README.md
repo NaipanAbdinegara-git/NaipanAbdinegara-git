@@ -31,6 +31,10 @@ Hey, I'm Naipan. Just a student from Indonesia who spends way too much time in t
   <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
+<p align="center">
+  <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
@@ -55,7 +59,3 @@ Coding isn't my whole personality. When I'm offline:
 * **Vibe:** Trying to keep the work-life balance in check.
 ---
 
-
-<p align="center">
-  <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
-</p>
