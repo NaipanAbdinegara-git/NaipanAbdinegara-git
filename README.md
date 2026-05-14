@@ -50,11 +50,8 @@ Coding isn't my whole personality. When the IDE is closed:
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=onehalf_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" height="165" />
+ <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
-</p>
-
 <p align="center">
   <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
 </p>
