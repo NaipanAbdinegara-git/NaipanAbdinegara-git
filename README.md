@@ -29,7 +29,7 @@ Yo, I'm **Naipan**. Just a 15-year-old student from Indonesia who spends way too
 ---
 
 ## 🚀 Current Focus
-Not just collecting tutorials, but actually building things:
+Not just Karena bukan cuma ngumpulin tutorial, tapi beneran bikin sesuatu:
 * **Data Pipelines:** Crunching numbers and turning raw data into stories.
 * **Problem Solving:** Learning to debug without losing my mind.
 * **Routine:** Balancing school life as a class president while keeping the green squares coming.
@@ -46,14 +46,17 @@ Coding isn't my whole personality. When the IDE is closed:
 
 ## 📊 Quick Stats
 <div align="center">
-  <!-- GitHub Readme Stats (Lebih stabil dari streak biasa) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <!-- Language Stats (Penting buat nunjukin dominasi Python lu) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <!-- GitHub Streak Stats (Opsi 1 - OneHalf Dark) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" />
+  
+  <br/>
+
+  <!-- Profile Summary Stats (Sebagai pengganti Vercel yang down) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaipanAbdinegara-git&theme=onehalf_dark" />
 </div>
 
 <p align="center">
-  <!-- Snake Animation tetep ada karena ini paling jujur! -->
+  <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
