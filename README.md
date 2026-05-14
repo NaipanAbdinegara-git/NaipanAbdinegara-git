@@ -21,21 +21,6 @@ Hey, I'm Naipan. Just a student from Indonesia who spends way too much time in t
 
 ---
 
-## 📊 Quick Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaipanAbdinegara-git&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true&fire=true" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
-</p>
-<p align="center">
-  <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
-</p>
-
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash" />
@@ -58,3 +43,17 @@ Coding isn't my whole personality. When I'm offline:
 * **Vibe:** Trying to keep the work-life balance in check.
 ---
 
+## 📊 Quick Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaipanAbdinegara-git&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true&fire=true" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+</p>
+<p align="center">
+  <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
+</p>
+
+---
