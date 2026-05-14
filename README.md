@@ -29,7 +29,7 @@ Yo, I'm **Naipan**. Just a 15-year-old student from Indonesia who spends way too
 ---
 
 ## 🚀 Current Focus
-Not just Karena bukan cuma ngumpulin tutorial, tapi beneran bikin sesuatu:
+Bukan cuma ngumpulin tutorial, tapi beneran bikin sesuatu:
 * **Data Pipelines:** Crunching numbers and turning raw data into stories.
 * **Problem Solving:** Learning to debug without losing my mind.
 * **Routine:** Balancing school life as a class president while keeping the green squares coming.
@@ -46,12 +46,15 @@ Coding isn't my whole personality. When the IDE is closed:
 
 ## 📊 Quick Stats
 
-<!-- 1. Stats Utama (Sejajar) -->
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=onehalf_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" height="165" />
- <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+</p>
+
 <p align="center">
   <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
 </p>
