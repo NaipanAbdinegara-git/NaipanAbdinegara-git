@@ -49,12 +49,7 @@ Coding isn't my whole personality. When the IDE is closed:
 <!-- 1. Stats Utama (Sejajar) -->
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=onehalf_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=onehalf_dark&hide_border=true" height="165" />
-</p>
-
-<!-- 2. Streak (Sendirian di tengah buat penegasan) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" />
 </p>
 
 <!-- 3. Snake (Sebagai visual penutup di bawah) -->
