@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-Yo, I'm **Naipan**. Just a 15-year-old student from Indonesia who spends way too much time in the terminal. I'm on a mission to master Data Science and AI to change the game. I believe consistency is the only cheat code that actually works.
+Hello, I'm **Naipan**. Just a 15-year-old student from Indonesia who spends way too much time in the terminal. I'm on a mission to master Data Science and AI to change the game. I believe consistency is the only cheat code that actually works.
 
 * 📍 **Based in:** Palembang, Indonesia.
 * 💻 **Tech Stack:** Focus on Python (for data), JS (for web), and exploring C++ soon.
