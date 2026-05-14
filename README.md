@@ -12,46 +12,51 @@
 ---
 
 ## 👨‍💻 About Me
-Hey, I'm Naipan. Just a student from Indonesia who spends way too much time in the terminal. I'm currently focused on building a solid foundation in Data Science and AI. I believe that consistency is the only way to get better at this coding game.
+Yo, I'm **Naipan**. Just a 15-year-old student from Indonesia who spends way too much time in the terminal. I'm on a mission to master Data Science and AI to change the game. I believe consistency is the only cheat code that actually works.
 
 * 📍 **Based in:** Palembang, Indonesia.
-* 💻 **Tech Stack:** Python, JS, and a bit of everything else.
-* 🐧 **Daily Driver:** Windows (because why not?).
-* 🎯 **The Goal:** Leveling up as a Data Analyst.
+* 💻 **Tech Stack:** Focus on Python (for data), JS (for web), and exploring C++ soon.
+* 🐧 **Daily Driver:** Windows 11 + WSL2 (The best of both worlds).
+* 🎯 **The Goal:** Leveling up as an AI Engineer & helping others once I've made it.
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash,windows,bootstrap,pandas" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 Not just collecting tutorials, but actually building things:
-* **Data Pipelines:** Crunching numbers with Pandas & NumPy.
-* **Problem Solving:** Trying to fix bugs faster than I create them.
-* **Routine:** Keeping my coding streak alive while balancing school life as a class president.
+* **Data Pipelines:** Crunching numbers and turning raw data into stories.
+* **Problem Solving:** Learning to debug without losing my mind.
+* **Routine:** Balancing school life as a class president while keeping the green squares coming.
 
 ---
 
 ## 🎮 Off-Screen
-Coding isn't my whole personality. When I'm offline:
-* **Sim-Games:** Building cities in TheoTown or experimenting in WorldBox/Minecraft.
-* **Watchlist:** Frieren, Pseudo Harem, or just random stuff to clear my head.
-* **Vibe:** Trying to keep the work-life balance in check.
+Coding isn't my whole personality. When the IDE is closed:
+* **Sim-Games:** Architecting cities in **TheoTown** or playing God in **WorldBox/Minecraft**.
+* **Watchlist:** *Frieren*, *Pseudo Harem*, or watching **Stresmen** since 2017 (classic!).
+* **Vibe:** Learning to stay disciplined while enjoying the process.
+
 ---
 
 ## 📊 Quick Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaipanAbdinegara-git&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=NaipanAbdinegara-git&theme=tokyonight&hide_border=true&fire=true" />
+  <!-- GitHub Readme Stats (Lebih stabil dari streak biasa) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <!-- Language Stats (Penting buat nunjukin dominasi Python lu) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <p align="center">
+  <!-- Snake Animation tetep ada karena ini paling jujur! -->
   <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
+
 <p align="center">
   <i>"Consistency beats intensity. But honestly? It's hard lol"</i>
 </p>
