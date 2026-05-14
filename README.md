@@ -45,21 +45,20 @@ Coding isn't my whole personality. When the IDE is closed:
 ---
 
 ## 📊 Quick Stats
-<div align="center">
-  <!-- GitHub Streak Stats (Paling Atas biar eyecatching) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" />
-  
-  <br/><br/>
 
-  <!-- GitHub Stats & Top Langs (Dibuat sejajar) -->
+<!-- 1. Stats Utama (Sejajar) -->
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaipanAbdinegara-git&show_icons=true&theme=onehalf_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaipanAbdinegara-git&layout=compact&theme=onehalf_dark&hide_border=true" height="165" />
-</div>
+</p>
 
-<br/>
-
+<!-- 2. Streak (Sendirian di tengah buat penegasan) -->
 <p align="center">
-  <!-- Snake Animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaipanAbdinegara-git&theme=onehalf_dark&hide_border=true&fire=true" />
+</p>
+
+<!-- 3. Snake (Sebagai visual penutup di bawah) -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/NaipanAbdinegara-git/NaipanAbdinegara-git/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
