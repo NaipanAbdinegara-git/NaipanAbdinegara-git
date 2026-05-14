@@ -1,4 +1,4 @@
-<h1 align="center">Naipan Abdinegara </h1>
+<h1 align="center">Naipan Abdinegara 🚀</h1>
 
 <p align="center">
   <b>Student • Aspiring Data Analyst • AI Enthusiast</b>
@@ -12,12 +12,12 @@
 ---
 
 ## 👨‍💻 About Me
-Hello, I'm **Naipan**. Just a 16-year-old student from Indonesia who spends way too much time in the terminal. I'm on a mission to master Data Science and AI to change the game. I believe consistency is the only cheat code that actually works.
+Hello, I'm **Naipan**. I am a 16-year-old student from Indonesia with a deep interest in data and automation. Currently, I am on a journey to master Data Science and AI, driven by the belief that consistency is the ultimate key to growth.
 
 * 📍 **Based in:** Palembang, Indonesia.
-* 💻 **Tech Stack:** Focus on Python (for data), JS (for web), and exploring C++ soon.
-* 🐧 **Daily Driver:** Windows 11 + WSL2 (The best of both worlds).
-* 🎯 **The Goal:** Leveling up as an AI Engineer & helping others once I've made it.
+* 💻 **Tech Stack:** Specialized in Python for data analysis, while also exploring JS and C++.
+* 🐧 **Daily Driver:** Windows 11 + WSL2 (A seamless blend of efficiency and power).
+* 🎯 **The Goal:** To evolve into a proficient AI Engineer and contribute back to the community.
 
 ---
 
@@ -29,18 +29,18 @@ Hello, I'm **Naipan**. Just a 16-year-old student from Indonesia who spends way 
 ---
 
 ## 🚀 Current Focus
-Bukan cuma ngumpulin tutorial, tapi beneran bikin sesuatu:
-* **Data Pipelines:** Crunching numbers and turning raw data into stories.
-* **Problem Solving:** Learning to debug without losing my mind.
-* **Routine:** Balancing school life as a class president while keeping the green squares coming.
+I believe in learning by doing. Currently, I am focusing on:
+* **Data Pipelines:** Transforming raw data into meaningful insights.
+* **Problem Solving:** Refining my logic and debugging skills.
+* **Discipline:** Balancing my responsibilities as a class president with a daily coding routine.
 
 ---
 
 ## 🎮 Off-Screen
-Coding isn't my whole personality. When the IDE is closed:
-* **Sim-Games:** Architecting cities in **TheoTown** or playing God in **WorldBox/Minecraft**.
-* **Watchlist:** *Frieren*, *Pseudo Harem*, or watching **Stresmen** since 2017 (classic!).
-* **Vibe:** Learning to stay disciplined while enjoying the process.
+Beyond the screen, I enjoy maintaining a healthy balance:
+* **Simulation Games:** Building systems in **TheoTown** or exploring **WorldBox** and **Minecraft**.
+* **Entertainment:** Watching *Frieren*, *Pseudo Harem*, or following **Stresmen** (a viewer since 2017).
+* **Mindset:** Staying grounded and finding joy in the learning process.
 
 ---
 
