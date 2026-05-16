@@ -23,7 +23,7 @@ Hello, I'm **Naipan**. I am a 16-year-old student from Indonesia with a deep int
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash,windows,bootstrap,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,bash,windows,pandas" />
 </p>
 
 ---
