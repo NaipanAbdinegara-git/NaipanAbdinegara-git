@@ -41,6 +41,7 @@ Beyond the screen, I enjoy maintaining a healthy balance:
 * **Simulation Games:** Building systems in **TheoTown** or exploring **WorldBox** and **Minecraft**.
 * **Entertainment:** Watching *Frieren*, *Pseudo Harem*, or following **Stresmen** (a viewer since 2017).
 * **Mindset:** Staying grounded and finding joy in the learning process.
+* **Creating content:** Sometimes I create Instagram reels content on the **npn.code** account
 
 ---
 
