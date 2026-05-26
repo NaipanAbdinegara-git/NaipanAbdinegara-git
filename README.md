@@ -1,4 +1,4 @@
-<h1 align="center">Naipan Abdinegara 🚀</h1>
+<h1 align="center">Naipan Abdinegara</h1>
 
 <p align="center">
   <b>Student • Aspiring Data Analyst • AI Enthusiast</b>
