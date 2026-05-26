@@ -16,7 +16,7 @@ Hello, I'm **Naipan**. I am a 16-year-old student from Indonesia with a deep int
 
 * 📍 **Based in:** Palembang, Indonesia.
 * 💻 **Tech Stack:** Specialized in Python for data analysis, while also exploring JS and C++.
-* 🐧 **Daily Driver:** Windows 11 + WSL2 (A seamless blend of efficiency and power).
+* 🐧 **Daily Driver:** Windows 11 + WSL2 (Because... why not?).
 * 🎯 **The Goal:** To evolve into a proficient AI Engineer and contribute back to the community.
 
 ---
